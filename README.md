@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kykim0613/kykim0613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
